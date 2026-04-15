@@ -1,0 +1,1 @@
+python -m pip install pillow //biblioteca para manipulaçao de imagens
